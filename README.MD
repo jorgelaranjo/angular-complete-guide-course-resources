@@ -1,6 +1,7 @@
 # Angular - The Complete Guide Course Resources
 
 This repository contains resources (code snapshots, extra files & slides) for my [Angular - The Complete Guide](https://acad.link/angular) online course.
+?couponCode=D_0125
 
 ## How To Use
 
